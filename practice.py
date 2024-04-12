@@ -1,7 +1,3 @@
-l = []
+print('Hello, World!')
 
-l.extend([1, 'hello', 2, 'Python'])
-
-l.remove('Python')
-
-print(l)
+print('Branch Sample2')
